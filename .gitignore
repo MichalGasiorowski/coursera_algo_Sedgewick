@@ -1,0 +1,8 @@
+# Coursera Programming Languages gitignore
+
+bin/
+*.class
+.checkstyle
+.classpath
+.project
+
